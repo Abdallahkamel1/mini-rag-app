@@ -10,4 +10,4 @@ def welcome():
     }
 
 
-print(welcome()['message'])
+
