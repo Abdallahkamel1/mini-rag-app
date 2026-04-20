@@ -1,0 +1,5 @@
+name: mini-rag
+values:
+  - key: api
+    enabled: true
+    value: ''
